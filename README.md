@@ -9,7 +9,7 @@ This is my first time using Git and the learning curve has been steep.
 ![image of an owl, reading on a laptop](owl-reading-laptop-1.png)
 
 ## **Purpose of this repository** 
-This repositary contains my CFG assingments. 
+This repository contains my CFG assignments. 
 I will use Git & GitHub to: 
 - track changes 
 - learn git commands (e.g. pull requests, merge branches)
