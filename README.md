@@ -1,4 +1,4 @@
-# **CGF Degree- Foundation Module Assignments** 
+# **CFG Degree- Foundation Module Assignments** 
 
 ## **Background about me** 
 Hi, my name is Anusha :smile:. I am excited for my career switch into tech *especially with the CFG team*. 
@@ -12,7 +12,7 @@ This is my first time using Git and the learning curve has been steep.
 This repositary contains my CFG assingments. 
 I will use Git & Git hub to: 
 - track changes 
-- learn git commands (e.g.pull requests, merge branches)
+- learn git commands (e.g. pull requests, merge branches)
 - add Asma to the repository so she can mark my work :relaxed:. 
 
 ### **Previous projects** 
