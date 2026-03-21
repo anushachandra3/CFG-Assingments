@@ -10,12 +10,12 @@ This is my first time using Git and the learning curve has been steep.
 
 ## **Purpose of this repository** 
 This repositary contains my CFG assingments. 
-I will use Git & Git hub to: 
+I will use Git & GitHub to: 
 - track changes 
 - learn git commands (e.g. pull requests, merge branches)
 - add Asma to the repository so she can mark my work :relaxed:. 
 
-### **Previous projects** 
+## **Previous projects** 
 I have worked on other projects whilst navigating my transition into tech. 
 1. <ins>Tableau</ins>
   - Exploring the relationship between music & mental health 
@@ -25,5 +25,25 @@ I have worked on other projects whilst navigating my transition into tech.
 3. <ins>Statistics</ins>
   - Stock price comparison on Apple, Tesla and Microsoft from 2018-2023 
 
-### The following Git commands were used during the assignment: 
+## **The following Git commands were used during the assignment:** 
+### 1. Checking the status 
+I used git status to check repository changes. 
+![Git Status](Screenshot-using-git-status.png)
+
+### 2. Creating a branch 
+I created a new branch by using git checkout -b feature-branch
+![New Branch](Screenshot-creating-a-branch.png)
+
+### 3. Adding files & Commits with meaningful messages
+I added changes to a file and committed a meaningful message using git add and git commit. 
+![Git Add and Git Commit](Screenshot-git-add-%20git-commit.png)
+
+#### 4. Opening a pull request 
+A pull request was created on GitHub to pull changes into the main branch. 
+![pull request](Screenshot-pull-request-change%20.png)
+
+#### 5. Merging to main branch 
+The feature branch was merged into the main. 
+![Merge](Screenshot-merging-deploying-main-branch.png)
+
 
