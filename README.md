@@ -13,7 +13,7 @@ This repository contains my CFG assignments.
 I will use Git & GitHub to: 
 - track changes 
 - learn git commands (e.g. pull requests, merge branches)
-- add Asma to the repository so she can mark my work :relaxed:. 
+- add my instructor as a collaborator so my work can be reviewed :relaxed:. 
 
 ## **Previous projects** 
 I have worked on other projects whilst navigating my transition into tech. 
